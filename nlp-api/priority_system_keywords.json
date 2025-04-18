@@ -1,0 +1,41 @@
+{
+  "negative_keywords": ["not", "no", "never", "none", "non"],
+  "urgency_keywords": [
+    "deadline",
+    "urgent",
+    "immediate",
+    "emergency",
+    "work",
+    "critical",
+    "tax",
+    "breakdown",
+    "client",
+    "lose",
+    "accident",
+    "illness",
+    "project",
+    "issue",
+    "bill",
+    "important",
+    "customer",
+    "failure",
+    "disruption",
+    "unexpected",
+    "outage",
+    "presentation"
+  ],
+  "urgency_phrases": ["time-sensitive"],
+  "non_urgency_keywords": [
+    "week",
+    "month",
+    "year",
+    "hobby",
+    "fun",
+    "pass",
+    "potential",
+    "future",
+    "goal",
+    "temporary"
+  ],
+  "non_urgency_phrases": ["long-term", "short-term"]
+}
